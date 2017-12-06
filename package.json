@@ -1,0 +1,22 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "command-line game using constructor functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babershere/constructor-hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babershere/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/babershere/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
